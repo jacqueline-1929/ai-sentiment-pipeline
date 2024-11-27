@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+env/
+venv/
+.env
+
+# Model artifacts
+output/
+models/
+mlflow.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
